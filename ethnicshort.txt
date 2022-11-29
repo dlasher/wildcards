@@ -1,0 +1,13 @@
+Hispanic
+White
+African American
+American Indian
+Chinese
+Indian
+Filipino
+Vietnamese
+Korean
+Japanese
+Native Hawaiian
+Pacific Islander
+Multiracial

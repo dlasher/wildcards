@@ -1,0 +1,49 @@
+Arroyo
+Barachois
+Bay
+Bayou
+Beck
+Bight
+Billabong
+Brook
+Burn
+Canal
+Channel
+Cove
+Creek
+Delta
+Distributary
+Estuary
+Firth
+Fjord
+Fiord
+Gulf
+Harbor
+Inlet
+Kettle Lake
+Kill
+Lagoon
+Lake
+Loch
+Marsh
+Moat
+Ocean
+Oxbow Lake
+Pond
+Puddle
+Reservoir
+River
+Sea
+Sea Loch
+Sound
+Spring
+Strait
+Stream
+Subglacial Lake
+Swamp
+Tarn
+Tide Pool
+Tributary
+Vernal Pool
+Wadi & Wash
+Wetland

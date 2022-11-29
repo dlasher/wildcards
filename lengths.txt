@@ -1,0 +1,17 @@
+ear
+chin
+neck
+shoulder
+collarbone
+armpit
+bra-strap
+mid-back
+waist
+hip
+long
+classic
+mid-thigh
+knee
+calf
+ankle
+floor

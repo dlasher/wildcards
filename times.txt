@@ -1,0 +1,7 @@
+morning
+Noon
+afternoon
+evening
+Night
+Midnight
+late night

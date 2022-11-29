@@ -1,0 +1,138 @@
+Alluvial fan
+Anabranch
+Archipelago
+Arête
+Arroyo
+Aseismic Ridge
+Badlands
+Barchan
+Barrier Island
+Basin
+Bay
+Bayou
+Beach
+Beach Cusps
+Beach Ridge
+Bight
+Blowhole
+Blowout
+Bluff
+Bornhardt
+Braided River
+Butte
+Canal
+Canyon
+Cape
+Cave
+Cenote
+Channel
+Cliff
+Confluence
+Continent
+Continental shelf
+Cove
+Crater Lake
+Crevasse
+Cuesta
+Current
+Cuspate Foreland
+Dam
+Dell
+Delta
+Desert
+Dirt Cone
+Divide
+Dome
+Drainage Basin
+Dry Lake
+Dune
+Erg
+Escarpment
+Estuary
+fjord
+Flats
+Floodplain
+Forest
+Fork
+Geo
+Geyser
+Glacier
+Glacier Caves
+Glen
+Gorge
+Graben
+Gulf
+Gully
+Guyot
+Hanging Valley
+Headland
+hemisphere
+hill
+Hogback
+Hoodoo
+Iceberg
+Inlet
+Island
+Islet
+isthmus
+Karst
+lake
+Latitude
+Lava Dome
+Lava Field
+Lava Lake
+Lava Spine
+Lava Tube
+Longitude
+Lowland
+Marsh
+Meander
+Mesa
+Moraine
+Mountain
+Mountain Pass
+Mouth of a River
+Mountain Range
+Mud Volcano
+Natural Arch
+Nunatak
+Oasis
+ocean
+Oceanic Basin
+Oceanic Plateau
+Ocean Range
+Oxbow Lake
+Peninsula
+Pit Crater
+Plain
+Plateau
+Plunge Pool
+Pond
+Port
+Pothole
+Prairie
+Proglacial Lake
+Pyramidal Peak
+Raised Beach
+Rapids
+Ravine
+Reef
+Reservoir
+Ria
+Riffle
+Rift Valley
+River
+River Delta
+River Island
+Sandbar
+Sea
+Sinkhole
+Sound
+Strait
+Swamp
+Terrace
+Tide
+Upstream
+Valley
+Volcano
+Waterfall
